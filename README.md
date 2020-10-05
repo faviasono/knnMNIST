@@ -1,2 +1,2 @@
-# knnMNIST
-Implementation &amp; Analysis of KNN classifier on MNIST dataset. 
+# KNN analysis & implementation on MNIST dataset
+
